@@ -8,7 +8,7 @@
 
 <h3>Компиляция и запуск</h3>
 
-Компилируем команой:
+Компилируем командой:
 ```
 mvn clean package
 ```
@@ -17,3 +17,7 @@ mvn clean package
 ```
 java -jar TestCenterBot-1.0-SNAPSHOT.jar -Xmx500M
 ```
+
+<h3>Скриншоты</h3>
+
+![WhatsApp Image 2024-05-07 at 22 11 31](https://github.com/xflyiwnl/TestCenterBot/assets/108489760/ef88f0f5-7042-4da3-ab00-7187c5138298)
